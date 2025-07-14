@@ -6,9 +6,7 @@
 # ==============================================================================
 # Project:      Network Security I - Domain Mapper
 # Student Name: Vladimir Minkin 
-# Student ID:   S12
-# Class Code:   Peres-1024
-# Lecturer:     Michael Kliot
+
 # ==============================================================================
 #
 # DESCRIPTION:
